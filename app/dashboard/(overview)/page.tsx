@@ -1,3 +1,5 @@
+// 기존 도메인: nextjs-dashboard-beta-rosy.vercel.app
+// 변경 도메인: johnSeosNextjsDashboard.vercel.app
 // import { Card } from '@/app/ui/dashboard/cards';
 import CardWrapper from '@/app/ui/dashboard/cards';
 import RevenueChart from '@/app/ui/dashboard/revenue-chart';
